@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* 초기화 */
+
+/* root 10px */
+html {font-size: 62.5%;}
+
+/* 여백 초기화 */
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+/* 스타일 초기화 */
+ul,ol {list-style: none;}
+a {text-decoration: none; color: inherit;}
+address, em {font-style: normal;} 
+
+/* 이미지 line-height 제거 */
+img {vertical-align: middle;}
+
+/* 폼요소 초기화 */
+button, select, input, textarea {vertical-align: middle;}
+
+/* 표 초기화 */
+table {border-collapse: collapse; width: 100%;}
+
+/* 필드초기화 */
+fieldset {border: 0;}
+legend {display: none;}
