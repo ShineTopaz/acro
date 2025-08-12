@@ -47,7 +47,7 @@ body {font-family: "Pretendard",sans-serif; font-size: 1.5rem; color: #000;}
 }
 /* main */
 h2 {font-size: 4.5rem; padding-bottom: 50px;}
-p {font-size: 2rem; color: #eee; opacity: 0.7; padding-bottom: 50px;}
+p {font-size: 2rem; color: #999; padding-bottom: 50px;}
 .btn_more {display: inline-block; border-bottom: #000 1px solid; font-size: 1.4rem; color: #4b4b4b;}
 
 @media(max-width : 1200px) {
@@ -67,7 +67,7 @@ p {font-size: 2rem; color: #eee; opacity: 0.7; padding-bottom: 50px;}
 .visual .visual_txt {color: #fff; text-align: center; position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);}
 .visual .visual_txt strong {display: block; font-family: "Kalnia"; font-size: 4rem; font-weight: 400;padding-bottom: 45px;}
 .visual .visual_txt h3 {font-size: 3.5rem; padding-bottom: 30px;}
-.visual .visual_txt p {font-size: 1.8rem;}
+.visual .visual_txt p {font-size: 1.8rem; color: #eee;}
 
 .visual_list .swiper-button-next {width: 45px; background: url(../images/arrow_next.png) no-repeat center; top: auto; bottom: 25px; right: 40%;z-index: 99;}
 .visual_list .swiper-button-next:after {display: none;}
